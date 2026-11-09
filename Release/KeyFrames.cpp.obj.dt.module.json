@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Release\\KeyFrames.obj",
+            "outputs": [
+                "Release\\KeyFrames.cpp.obj.dt.module.json",
+                "Release\\KeyFrames.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
